@@ -1,11 +1,106 @@
 h1{
-    color: red;
-    font-size: 64px;
+    color: black;
+    font-size: 30px;
+    padding-left: 10px;
+    border-left: solid 5px rgb(0, 0, 170);
+    border-bottom: solid 1px #001276;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.mokuji{
+    font-size: 16px;
+    background: #ffffff;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    margin-bottom: 20px;
+    
+}
+.mokuji_design{
+    
+    font-size: 20px;
+    border-bottom: solid 5px #06e6a6;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    margin-bottom: 20px;
+    
+}
+ul{
+    color: #06e6a6;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    margin-bottom: 20px;
 }
 p{
-    color: blue;
-    font-size: 50px;
-}
-.black-stme{
+    font-style: normal;
     color: black;
+    font-size: 16px;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    margin-bottom: 20px;
+    
+}
+body{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    margin-bottom: 20px;
+    
+}
+h2{
+    color: black;
+    font-size: 30px;
+    padding-left: 10px;
+    border-left: solid 5px rgb(0, 229, 255);
+    border-bottom: solid 1px #008fb0;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    margin-bottom: 20px;
+    
+}
+h3{
+    color: black;
+    font-size: 30px;
+    padding-left: 10px;
+    border-left: solid 5px rgb(255, 157, 0);
+    border-bottom: solid 1px #cf9100;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    margin-bottom: 20px;
+    
+}
+h4{
+    color: black;
+    font-size: 30px;
+    padding-left: 10px;
+    border-left: solid 5px rgb(166, 0, 255);
+    border-bottom: solid 1px #7300d8;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    margin-bottom: 20px;
+    
+}
+h5{
+    color: black;
+    font-size: 30px;
+    padding-left: 10px;
+    border-left: solid 5px rgb(0, 153, 255);
+    border-bottom: solid 1px #0011ff;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    margin-bottom: 20px;
+    
+}
+.yajirusi{
+    margin: auto;
 }
